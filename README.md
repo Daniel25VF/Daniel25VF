@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning Java
+- 🌱 Always learning new technologies to grow as a web developer.
 
 - 🧑‍🎓 I’m an Undergraduate at ITIC BCN
 
@@ -65,10 +65,10 @@
 
   <br>
 
-  - **Version Control**:
+- **Version Control**:
  
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
   <br>
 
